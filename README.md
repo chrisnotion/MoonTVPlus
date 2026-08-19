@@ -215,7 +215,7 @@ EdgeOne Pages/Makers 支持通过 API Token 在 GitHub Actions 中自动构建�
 - 在账号或 API Token 相关页面创建用于 CI/CD 的 Token
 - 复制生成的 Token，后续填入 GitHub Secrets
 
-**2. 配置 GitHub Secrets**
+**2. 配置 GitHub Secrets** 
 
 进入你 Fork 的仓库，点击 Settings > Secrets and variables > Actions > New repository secret，添加以下必需的 Secrets：
 
